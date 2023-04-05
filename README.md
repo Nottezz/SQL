@@ -34,3 +34,8 @@
 1. Registering a new user.
 2. Authorization in the system - Login, Password.
 3. Password recovery by code word with password replacement (mandatory Login input).
+#
+https://user-images.githubusercontent.com/116362682/230213116-35e2530b-8f6e-47b5-a6dd-399797f5ecf6.mp4
+
+
+
